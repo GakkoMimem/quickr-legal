@@ -5,8 +5,9 @@ These documents are linked both in the Quickr iOS app and in App Store Connect f
 
 ## Documents
 
-- [Privacy Policy](https://github.com/GakkoMimem/quickr-legal/blob/main/privacy.md)  
-- [Terms of Service](https://github.com/GakkoMimem/quickr-legal/blob/main/terms.md)  
+[Privacy Policy](https://gakkomimem.github.io/quickr-legal/privacy)  
+[Terms of Service](https://gakkomimem.github.io/quickr-legal/terms)
+
   *(or use [Apple’s Standard EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) if you prefer not to host custom terms)*
 
 ---
