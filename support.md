@@ -1,5 +1,6 @@
 ---
-title: Support
+title: Quickr Support
+permalink: /support/
 ---
 
 # Quickr — Support
