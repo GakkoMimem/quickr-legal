@@ -9,7 +9,6 @@ Welcome! This page explains how to get help, manage your subscription, and reque
 
 ## Contact Us
 Email: **quickr.feedback@gmail.com**  
-Mail link: [Email Quickr](quickr.feedback@gmail.com))
 
 ## Manage or Cancel Your Subscription
 You can manage or cancel your Quickr subscription on your iPhone:
